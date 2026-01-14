@@ -2,7 +2,7 @@
 
 Ce projet est réalisé par :
   - Elmehdi SASSI
-  - Mohammed Oussama LAYAIDI
+  - Oussama LAYAIDI
 
 
 Le fichier `diagUML.dot` est utilisé pour dessiner le diagramme de classe, en utilisant l'extention `DotUML`.
